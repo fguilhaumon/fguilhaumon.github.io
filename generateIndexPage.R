@@ -14,7 +14,9 @@ local({
 
   cat('---
 title: "Index"
-output: html_document
+output:
+  html_document:
+    theme: united
 ---
 ', file = md_tmp)
 
