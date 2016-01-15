@@ -20,3 +20,7 @@ plot(iris)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+But can you insert html cde directly in the Rmd ?
+
+<span class="badge badge-warning">4</span> <- yes you can !
