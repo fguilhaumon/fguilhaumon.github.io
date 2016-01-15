@@ -4,7 +4,7 @@ local({
   before_body <- "include/before_body.html"
 
   cat('
-<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+<div class="navbar navbar-default navbar-default" role="navigation">
   <div class="container">
     <div class="navbar-header">
       <a class="navbar-brand" href="./index.html">François Guilhaumon</a>
@@ -13,6 +13,7 @@ local({
       <ul class="nav navbar-nav">
         <li><a href="./index.html">Home</a></li>
         <li><a href="https://github.com/fguilhaumon">Github</a></li>
+        <li><a href="">Another item</a></li>
         <li class="dropdown">
           <a href="authoring" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Pages<span class="caret"></span></a>
           <ul class="dropdown-menu" role="menu">', file = before_body)
