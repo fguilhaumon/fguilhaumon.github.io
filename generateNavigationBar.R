@@ -4,7 +4,7 @@ local({
   before_body <- "include/before_body.html"
 
   cat('
-<div class="navbar navbar-custom navbar-fixed-top" role="navigation">
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
       <a class="navbar-brand" href="./index.html">François Guilhaumon</a>
