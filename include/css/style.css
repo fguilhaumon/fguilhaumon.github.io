@@ -6,7 +6,7 @@ body {
   padding-top: 50px;
   padding-bottom: 40px;
   background-color: #55542b;
-	background-image:url('include/images/back_4.gif');
+	background-image:url('../images/back_4.gif');
 	background-repeat:repeat;
 }
 
