@@ -5,7 +5,15 @@ output:
 ---
 
 <div class="jumbotron" id="jumbo">
-  <h2>Land page </h2>
-  <p>This is a simple land page with a custom background, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vitae condimentum augue. Pellentesque ut porttitor purus. Pellentesque vitae volutpat est, non luctus erat. Nunc fermentum, eros quis lobortis luctus, ipsum ante accumsan odio, quis facilisis nibh odio in metus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum eleifend ex in bibendum ullamcorper. Sed nec blandit turpis.</p>
-  <p align="center"><a class="btn btn-warning btn-lg">and this is a button</a> <a class="btn btn-info btn-lg">and this is a button</a> <a class="btn btn-primary btn-lg">and this is a button</a></p>
+<div class="row">
+<div class="col-md-8">
+<h2>Land page </h2>
+<p align="justify">
+  This is a simple land page with a custom background, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vitae condimentum augue. Pellentesque ut porttitor purus. Pellentesque vitae volutpat est, non luctus erat. Nunc fermentum, eros quis lobortis luctus, ipsum ante accumsan odio, quis facilisis nibh odio in metus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum eleifend ex in bibendum ullamcorper. Sed nec blandit turpis.
+</p>
+</div>
+<div class="col-md-4">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/FMIB_32637_1_Lophelia_Prolifera%2C_2_Peachia_Triphylla%2C_3_Sphenditrochus_Wrightii%2C_4_5_S_Mac_Andrewanus%2C_5_Zoanthus_Couchii%2C_6_Paracyathus.jpeg" class="img-rounded" alt="Cinque Terre" width="349" height="600">
+</div>
+</div>
 </div>

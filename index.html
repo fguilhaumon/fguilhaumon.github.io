@@ -20,6 +20,7 @@
 <script src="libs/bootstrap-3.3.1/shim/respond.min.js"></script>
 <link href='libs/fluidbox/css/fluidbox.css' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 <link href='include/css/style.css' rel='stylesheet' type='text/css'>
 
 <style type="text/css">code{white-space: pre;}</style>
@@ -68,23 +69,30 @@ img {
 <div class="navbar navbar-custom navbar-default" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <a class="navbar-brand" href="./index.html">François Guilhaumon</a>
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+
+        <a class="navbar-brand" href="./index.html">François Guilhaumon</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
-        <li><a href="./index.html">Home</a></li>
-        <li><a href="https://github.com/fguilhaumon">Github</a></li>
-        <li><a href="">Another item</a></li>
         <li class="dropdown">
-          <a href="authoring" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Pages<span class="caret"></span></a>
+          <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Menu<span class="caret"></span></a>
           <ul class="dropdown-menu" role="menu">          <li><a href="index.html">index</a></li>
           <li><a href="pandoc.html">pandoc</a></li>
           <li><a href="test2.html">test2</a></li>
           <li><a href="test.html">test</a></li>
           </ul>
         </li>
-        <li><a href="">An icon</a></li>
-      </ul>
+      <!--</ul>-->
+        <!--<ul class="nav navbar-nav navbar-right">-->
+          <li><a href="https://github.com/fguilhaumon"><i class="fa fa-github fa-lg"></i></a></li>
+          <li><a href="https://scholar.google.com/citations?user=jJwtZT0AAAAJ"><i class="fa fa-google fa-lg"></i></a></li>
+        </ul>
     </div><!--/.nav-collapse -->
   </div><!--/.container -->
 </div><!--/.navbar -->
@@ -92,15 +100,19 @@ img {
 
 
 <div id="jumbo" class="jumbotron">
+<div class="row">
+<div class="col-md-8">
 <h2>
 Land page
 </h2>
-<p>
+<p align="justify">
 This is a simple land page with a custom background, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vitae condimentum augue. Pellentesque ut porttitor purus. Pellentesque vitae volutpat est, non luctus erat. Nunc fermentum, eros quis lobortis luctus, ipsum ante accumsan odio, quis facilisis nibh odio in metus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum eleifend ex in bibendum ullamcorper. Sed nec blandit turpis.
 </p>
-<p align="center">
-<a class="btn btn-warning btn-lg">and this is a button</a> <a class="btn btn-info btn-lg">and this is a button</a> <a class="btn btn-primary btn-lg">and this is a button</a>
-</p>
+</div>
+<div class="col-md-4">
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/FMIB_32637_1_Lophelia_Prolifera%2C_2_Peachia_Triphylla%2C_3_Sphenditrochus_Wrightii%2C_4_5_S_Mac_Andrewanus%2C_5_Zoanthus_Couchii%2C_6_Paracyathus.jpeg" class="img-rounded" alt="Cinque Terre" width="349" height="600"></p>
+</div>
+</div>
 </div>
 
 <script type="text/javascript" src="libs/fluidbox/jquery.fluidbox.min.js"></script>

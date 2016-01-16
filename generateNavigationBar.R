@@ -7,15 +7,19 @@ local({
 <div class="navbar navbar-custom navbar-default" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <a class="navbar-brand" href="./index.html">François Guilhaumon</a>
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+
+        <a class="navbar-brand" href="./index.html">François Guilhaumon</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
-        <li><a href="./index.html">Home</a></li>
-        <li><a href="https://github.com/fguilhaumon">Github</a></li>
-        <li><a href="">Another item</a></li>
         <li class="dropdown">
-          <a href="authoring" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Pages<span class="caret"></span></a>
+          <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Menu<span class="caret"></span></a>
           <ul class="dropdown-menu" role="menu">', file = before_body)
 
   index <- jsonlite::fromJSON("index.json")
@@ -26,8 +30,11 @@ local({
   cat('
           </ul>
         </li>
-        <li><a href="">An icon</a></li>
-      </ul>
+      <!--</ul>-->
+        <!--<ul class="nav navbar-nav navbar-right">-->
+          <li><a href="https://github.com/fguilhaumon"><i class="fa fa-github fa-lg"></i></a></li>
+          <li><a href="https://scholar.google.com/citations?user=jJwtZT0AAAAJ"><i class="fa fa-google fa-lg"></i></a></li>
+        </ul>
     </div><!--/.nav-collapse -->
   </div><!--/.container -->
 </div><!--/.navbar -->
