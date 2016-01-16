@@ -19,7 +19,7 @@ local({
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li class="dropdown">
-          <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Menu<span class="caret"></span></a>
+          <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Menu <span class="caret"></span></a>
           <ul class="dropdown-menu" role="menu">', file = before_body)
 
   index <- jsonlite::fromJSON("index.json")
