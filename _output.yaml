@@ -1,5 +1,6 @@
 html_document:
   self_contained: false
+  theme: flatly
   mathjax: null
   lib_dir: libs
   includes:

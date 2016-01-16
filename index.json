@@ -1,5 +1,15 @@
 [
   {
+    "output": {
+      "html_document": {
+        "css": "include/css/index.css"
+      }
+    },
+    "url": "index.html",
+    "title": "index",
+    "date": "2016-01-16 19:23:22"
+  },
+  {
     "title": "test2",
     "author": "Hiroaki Yutani",
     "date": "2015年9月19日",

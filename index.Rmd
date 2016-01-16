@@ -1,0 +1,11 @@
+---
+output:
+  html_document :
+    css : include/css/index.css
+---
+
+<div class="jumbotron" id="jumbo">
+  <h1>Index page</h1>
+  <p>This is a simple index page, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vitae condimentum augue. Pellentesque ut porttitor purus. Pellentesque vitae volutpat est, non luctus erat. Nunc fermentum, eros quis lobortis luctus, ipsum ante accumsan odio, quis facilisis nibh odio in metus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum eleifend ex in bibendum ullamcorper. Sed nec blandit turpis.</p>
+  <p><a class="btn btn-warning btn-lg">and this a button</a></p>
+</div>

@@ -4,8 +4,8 @@
 # 2) Otherwise, generate index.html from an index file which contains the list of pages.
 
 local({
-  if(file.exists("index.md")) {
-    rmarkdown::render("index.md", output_file = "index.html")
+  if(file.exists("index.Rmd")) {
+    rmarkdown::render("index.Rmd", output_file = "index.html")
     return()
   }
 
@@ -14,9 +14,7 @@ local({
 
   cat('---
 title: "Index"
-output:
-  html_document:
-    theme: united
+output: html_document
 ---
 ', file = md_tmp)
 
