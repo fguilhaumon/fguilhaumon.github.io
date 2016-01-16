@@ -4,10 +4,10 @@ local({
   before_body <- "include/before_body.html"
 
   cat('
-<div class="navbar navbar-custom navbar-default" role="navigation">
-  <div class="container">
+<nav class="navbar navbar-custom navbar-default" role="navigation">
+  <div class="container-fluid">
     <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
 					<span class="sr-only">Toggle navigation</span>
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
@@ -30,13 +30,13 @@ local({
   cat('
           </ul>
         </li>
-      <!--</ul>-->
-        <!--<ul class="nav navbar-nav navbar-right">-->
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
           <li><a href="https://github.com/fguilhaumon"><i class="fa fa-github fa-lg"></i></a></li>
           <li><a href="https://scholar.google.com/citations?user=jJwtZT0AAAAJ"><i class="fa fa-google fa-lg"></i></a></li>
         </ul>
     </div><!--/.nav-collapse -->
   </div><!--/.container -->
-</div><!--/.navbar -->
+</nav><!--/.navbar -->
 ', file = before_body, append = TRUE)
 })
