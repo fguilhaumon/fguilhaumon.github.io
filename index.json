@@ -7,7 +7,18 @@
     },
     "url": "index.html",
     "title": "index",
-    "date": "2016-01-16 19:34:23"
+    "date": "2016-01-16 19:46:37"
+  },
+  {
+    "output": {
+      "html_document": {
+        "toc": true,
+        "toc_depth": 2
+      }
+    },
+    "url": "pandoc.html",
+    "title": "pandoc",
+    "date": "2016-01-16 19:58:29"
   },
   {
     "title": "test2",
