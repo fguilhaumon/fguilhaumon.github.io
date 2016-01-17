@@ -1,6 +1,6 @@
 # generate index.html
 #
-# 1) If index.md exists, knit it.
+# 1) If index.Rmd exists, knit it.
 # 2) Otherwise, generate index.html from an index file which contains the list of pages.
 
 local({

@@ -1,0 +1,89 @@
+---
+title: "Publications"
+output: html_document
+---
+
+__42__ . D. Mouillot, V. Parravicini, D. R. Bellwood, F. Leprieur, D. Huang, P. F. Cowman, C. Albouy, T. P. Hughes, W. Thuiller and __F. Guilhaumon__. 2016. [Global marine protected areas do not secure the evolutionary history of tropical corals and fishes.](http://doi.org/10.1038/ncomms10359). _Nat Comms_.
+
+__41__ . Charlotte Sirot, Audrey M. Darnaude, __François Guilhaumon__, Julia Ramos-Miranda, Domingo Flores-Hernandez and Jacques Panfili. 2015. [Linking temporal changes in the demographic structure and individual growth to the decline in the population of a tropical fish.](http://doi.org/10.1016/j.ecss.2015.05.012). _Estuarine, Coastal and Shelf Science_.
+
+__40__ . A. Ba, K. Diouf, __F. Guilhaumon__ and J. Panfili. 2015. [Slow growth of the overexploited milk shark Rhizoprionodon acutus affects its sustainability in West Africa.](http://doi.org/10.1111/jfb.12764). _J Fish Biol_.
+
+__39__ . Florent Mazel, Julien Renaud, __François Guilhaumon__, David Mouillot, Dominique Gravel and Wilfried Thuiller. 2015. [Mammalian phylogenetic diversity–area relationships at a continental scale.](http://doi.org/10.1890/14-1858.1). _Ecology_.
+
+__38__ . Camille Albouy, Frida Ben Rais Lasram, Laure Velez, __François Guilhaumon__, Christine N. Meynard, Séverine Boyer, Laura Benestan, Nicolas Mouquet, Emmanuel Douzery, Roland Aznar, Marc Troussellier, Samuel Somot, Fabien Leprieur, François Le Loc'h and David Mouillot. 2015. [FishMed: traits, phylogeny, current and projected species distribution of Mediterranean fishes, and environmental data.](http://doi.org/10.1890/14-2279.1). _Ecology_.
+
+__37__ . Tarek Hattab, Camille Albouy, Frida Ben Rais Lasram, François Le Loc'h, __François Guilhaumon__ and Fabien Leprieur. 2015. [A biogeographical regionalization of coastal Mediterranean fishes.](http://doi.org/10.1111/jbi.12505). _J. Biogeogr._.
+
+__36__ . Kostas A. Triantis, Evan P. Economo, __François Guilhaumon__ and Robert E. Ricklefs. 2015. [Diversity regulation at macro-scales: species richness on oceanic archipelagos.](http://doi.org/10.1111/geb.12301). _Global Ecology and Biogeography_.
+
+__35__ . Thomas J. Matthews, __François Guilhaumon__, Kostas A. Triantis, Michael K. Borregaard and Robert J. Whittaker. 2015. [On the form of species-area relationships in habitat islands and true islands.](http://doi.org/10.1111/geb.12269). _Global Ecology and Biogeography_.
+
+__34__ . W. Thuiller, L. Maiorano, F. Mazel, __F. Guilhaumon__, G. F. Ficetola, S. Lavergne, J. Renaud, C. Roquet and D. Mouillot. 2015. [Conserving the functional and phylogenetic trees of life of European tetrapods.](http://doi.org/10.1098/rstb.2014.0005). _Philosophical Transactions of the Royal Society B: Biological Sciences_.
+
+__33__ . __François Guilhaumon__, Camille Albouy, Joachim Claudet, Laure Velez, Frida Ben Rais Lasram, Jean-Antoine Tomasini, Emmanuel J. P. Douzery, Christine N. Meynard, Nicolas Mouquet, Marc Troussellier, Miguel B. Araújo, David Mouillot and Simon Ferrier. 2014. [Representing taxonomic, phylogenetic and functional diversity: new challenges for Mediterranean marine-protected areas.](http://doi.org/10.1111/ddi.12280). _Diversity Distrib._.
+
+__32__ . Fernando Valladares, Silvia Matesanz, __François Guilhaumon__, Miguel B. Araújo, Luis Balaguer, Marta Benito-Garzón, Will Cornwell, Ernesto Gianoli, Mark van Kleunen, Daniel E. Naya, Adrienne B. Nicotra, Hendrik Poorter, Miguel A. Zavala and Wilfried Thuiller. 2014. [The effects of phenotypic plasticity and local adaptation on forecasts of species range shifts under climate change.](http://doi.org/10.1111/ele.12348). _Ecol Lett_.
+
+__31__ . R. J. Whittaker, F. Rigal, P. A. V. Borges, P. Cardoso, S. Terzopoulou, F. Casanoves, L. Pla, __F. Guilhaumon__, R. J. Ladle and K. A. Triantis. 2014. [Functional biogeography of oceanic islands and the scaling of functional diversity in the Azores.](http://doi.org/10.1073/pnas.1218036111). _Proceedings of the National Academy of Sciences_.
+
+__30__ . Jairo Patiño, Patrick Weigelt, __François Guilhaumon__, Holger Kreft, Kostas A. Triantis, Agustín Naranjo-Cigala, Péter Sólymos and Alain Vanderpoorten. 2014. [Differences in species-area relationships among the major lineages of land plants: a macroecological perspective.](http://doi.org/10.1111/geb.12230). _Global Ecology and Biogeography_.
+
+__29__ . Valeriano Parravicini, Sébastien Villéger, Tim R. McClanahan, Jesus Ernesto Arias-González, David R. Bellwood, Jonathan Belmaker, Pascale Chabanet, Sergio R. Floeter, Alan M. Friedlander, __François Guilhaumon__, Laurent Vigliola, Michel Kulbicki, David Mouillot and James J. Byers. 2014. [Global mismatch between species richness and vulnerability of reef fish assemblages.](http://doi.org/10.1111/ele.12316). _Ecol Lett_.
+
+__28__ . Florent Mazel, __François Guilhaumon__, Nicolas Mouquet, Vincent Devictor, Dominique Gravel, Julien Renaud, Marcus Vinicius Cianciaruso, Rafael Loyola, José Alexandre Felizola Diniz-Filho, David Mouillot and Wilfried Thuiller. 2014. [Multifaceted diversity-area relationships reveal global hotspots of mammalian species, trait and lineage diversity.](http://doi.org/10.1111/geb.12158). _Global Ecology and Biogeography_.
+
+__27__ . Miguel G. Matias, Dominique Gravel, __François Guilhaumon__, Philippe Desjardins-Proulx, Michel Loreau, Tamara Münkemüller and Nicolas Mouquet. 2013. [Estimates of species extinctions from species-area relationships strongly depend on ecological context.](http://doi.org/10.1111/j.1600-0587.2013.00448.x). _Ecography_.
+
+__26__ . Ricardo Dobrovolski, Rafael D. Loyola, __François Guilhaumon__, Sidney F. Gouveia and José Alexandre F. Diniz-Filho. 2013. [Global agricultural expansion and carnivore conservation biogeography.](http://doi.org/10.1016/j.biocon.2013.06.004). _Biological Conservation_.
+
+__25__ . Jairo Patiño, __François Guilhaumon__, Robert J. Whittaker, Kostas A. Triantis, S. Robbert Gradstein, Lars Hedenäs, Juana M. González-Mancebo and Alain Vanderpoorten. 2013. [Accounting for data heterogeneity in patterns of biodiversity: an application of linear mixed effect models to the oceanic island biogeography of spore-producing plants.](http://doi.org/10.1111/j.1600-0587.2012.00020.x). _Ecography_.
+
+__24__ . Camille Albouy, __François Guilhaumon__, Fabien Leprieur, Frida Ben Rais Lasram, Samuel Somot, Roland Aznar, Laure Velez, François Le Loc'h, David Mouillot and Peter Pearman. 2012. [Projected climate change and the changing biogeography of coastal Mediterranean fishes.](http://doi.org/10.1111/jbi.12013). _J. Biogeogr._.
+
+__23__ . O. Gimenez, F. Abadi, J-Y. Barnagaud, L. Blanc, M. Buoro, S. Cubaynes, M. Desprez, M. Gamelon, __F. Guilhaumon__, P. Lagrange, B. Madon, L. Marescot, E. Papadatou, J. Papaïx, G. Péron and S. Servanty. 2012. [How can quantitative ecology be attractive to young scientists? Balancing computer/desk work with fieldwork.](http://doi.org/10.1111/j.1469-1795.2012.00597.x). _Anim Conserv_.
+
+__22__ . Robert A. D. Cameron, Kostas A. Triantis, Christine E. Parent, __François Guilhaumon__, María R. Alonso, Miguel Ibáñez, António M. de Frias Martins, Richard J. Ladle, Robert J. Whittaker and Melodie McGeoch. 2012. [Snails on oceanic islands: testing the general dynamic model of oceanic island biogeography using linear mixed effect models.](http://doi.org/10.1111/j.1365-2699.2012.02781.x). _J. Biogeogr._.
+
+__21__ . Camille Albouy, __François Guilhaumon__, Miguel B. Araújo, David Mouillot and Fabien Leprieur. 2012. [Combining projected changes in species richness and composition reveals climate change impacts on coastal Mediterranean fish assemblages.](http://doi.org/10.1111/j.1365-2486.2012.02772.x). _Glob Change Biol_.
+
+__20__ . __François Guilhaumon__, Alberto Basset, Enrico Barbone and David Mouillot. 2012. [Species–area relationships as a tool for the conservation of benthic invertebrates in Italian coastal lagoons.](http://doi.org/10.1016/j.ecss.2011.12.001). _Estuarine, Coastal and Shelf Science_.
+
+__19__ . Y. Basset, L. Cizek, P. Cuenoud, R. K. Didham, __F. Guilhaumon__, O. Missa, V. Novotny, F. Odegaard, T. Roslin, J. Schmidl, A. K. Tishechkin, N. N. Winchester, D. W. Roubik, H.-P. Aberlenc, J. Bail, H. Barrios, J. R. Bridle, G. Castano-Meneses, B. Corbara, G. Curletti, W. Duarte da Rocha, D. De Bakker, J. H. C. Delabie, A. Dejean, L. L. Fagan, A. Floren, R. L. Kitching, E. Medianero, S. E. Miller, E. Gama de Oliveira, J. Orivel, M. Pollet, M. Rapp, S. P. Ribeiro, Y. Roisin, J. B. Schmidt, L. Sorensen and M. Leponce. 2012. [Arthropod Diversity in a Tropical Forest.](http://doi.org/10.1126/science.1226727). _Science_.
+
+__18__ . __François Guilhaumon__, Boris R. Krasnov, Robert Poulin, Georgy I. Shenbrot and David Mouillot. 2011. [Latitudinal mismatches between the components of mammal-flea interaction networks.](http://doi.org/10.1111/j.1466-8238.2011.00714.x). _Global Ecology and Biogeography_.
+
+__17__ . C Albouy, __F Guilhaumon__, S Villéger, M Mouchet, L Mercier, JM Culioli, JA Tomasini, F Le Loc’h and D Mouillot. 2011. [Predicting trophic guild and diet overlap from functional traits: statistics, opportunities and limitations for marine ecology.](http://doi.org/10.3354/meps09240). _Mar. Ecol. Prog. Ser._.
+
+__16__ . Marta Coll, Chiara Piroddi, Camille Albouy, Frida Ben Rais Lasram, William W. L. Cheung, Villy Christensen, Vasiliki S. Karpouzi, __François Guilhaumon__, David Mouillot, Michelle Paleczny, Maria Lourdes Palomares, Jeroen Steenbeek, Pablo Trujillo, Reg Watson and Daniel Pauly. 2011. [The Mediterranean Sea under siege: spatial overlap between marine biodiversity, cumulative threats and marine reserves.](http://doi.org/10.1111/j.1466-8238.2011.00697.x). _Global Ecology and Biogeography_.
+
+__15__ . Kostas A. Triantis, __François Guilhaumon__ and Robert J. Whittaker. 2011. [The island species-area relationship: biology and statistics.](http://doi.org/10.1111/j.1365-2699.2011.02652.x). _Journal of Biogeography_.
+
+__14__ . Robert Poulin, __François Guilhaumon__, Haseeb S. Randhawa, José L. Luque and David Mouillot. 2010. [Identifying hotspots of parasite diversity from species-area relationships: host phylogeny versus host ecology.](http://doi.org/10.1111/j.1600-0706.2010.19036.x). _Oikos_.
+
+__13__ . Marta Coll, Chiara Piroddi, Jeroen Steenbeek, Kristin Kaschner, Frida Ben Rais Lasram, Jacopo Aguzzi, Enric Ballesteros, Carlo Nike Bianchi, Jordi Corbera, Thanos Dailianis, Roberto Danovaro, Marta Estrada, Carlo Froglia, Bella S. Galil, Josep M. Gasol, Ruthy Gertwagen, João Gil, __François Guilhaumon__, Kathleen Kesner-Reyes, Miltiadis-Spyridon Kitsos, Athanasios Koukouras, Nikolaos Lampadariou, Elijah Laxamana, Carlos M. López-Fé de la Cuadra, Heike K. Lotze, Daniel Martin, David Mouillot, Daniel Oro, Saša Raicevich, Josephine Rius-Barile, Jose Ignacio Saiz-Salinas, Carles San Vicente, Samuel Somot, José Templado, Xavier Turon, Dimitris Vafidis, Roger Villanueva, Eleni Voultsiadou and Steven J. Bograd. 2010. [The Biodiversity of the Mediterranean Sea: Estimates, Patterns, and Threats.](http://doi.org/10.1371/journal.pone.0011842). _PLoS ONE_.
+
+__12__ . __François Guilhaumon__, David Mouillot and Olivier Gimenez. 2010. [mmSAR: an R-package for multimodel species-area relationship inference.](http://doi.org/10.1111/j.1600-0587.2010.06304.x). _Ecography_.
+
+__11__ . FRIDA BEN RAIS LASRAM, FRANÇOIS GUILHAUMON, CAMILLE ALBOUY, SAMUEL SOMOT, WILFRIED THUILLER and DAVID MOUILLOT. 2010. [The Mediterranean Sea as a ‘cul-de-sac’ for endemic fishes facing climate change.](http://doi.org/10.1111/j.1365-2486.2010.02224.x). _Global Change Biology_.
+
+__10__ . Sébastien Trape, Jean-Dominique Durand, __François Guilhaumon__, Laurent Vigliola and Jacques Panfili. 2009. [Recruitment patterns of young-of-the-year mugilid fishes in a West African estuary impacted by climate change.](http://doi.org/10.1016/j.ecss.2009.08.018). _Estuarine, Coastal and Shelf Science_.
+
+__9__ . K. Diouf, __F. Guilhaumon__, C. Aliaume, P. Ndiaye, T. Do Chi and J. Panfili. 2009. [Effects of the environment on fish juvenile growth in West African stressful estuaries.](http://doi.org/10.1016/j.ecss.2009.02.031). _Estuarine, Coastal and Shelf Science_.
+
+__8__ . F Ben Rais Lasram, __F Guilhaumon__ and D Mouillot. 2009. [Fish diversity patterns in the Mediterranean Sea: deviations from a mid-domain model.](http://doi.org/10.3354/meps07786). _Mar. Ecol. Prog. Ser._.
+
+__7__ . __F. Guilhaumon__, O. Gimenez, K. J. Gaston and D. Mouillot. 2009. [Reply to Bode and Murdoch: A proper integration of species-area relationship uncertainties into return on investment analyses is needed.](http://doi.org/10.1073/pnas.0812917106). _Proceedings of the National Academy of Sciences_.
+
+__6__ . __F. Guilhaumon__, O. Gimenez, K. J. Gaston and D. Mouillot. 2008. [Taxonomic and regional uncertainty in species-area relationships and the identification of richness hotspots.](http://doi.org/10.1073/pnas.0803610105). _Proceedings of the National Academy of Sciences_.
+
+__5__ . D. Bonnet, R. P. Harris, L. Yebra, __F. Guilhaumon__, D. V. P. Conway and A. G. Hirst. 2008. [Temperature effects on Calanus helgolandicus (Copepoda: Calanoida) development time and egg production.](http://doi.org/10.1093/plankt/fbn099). _Journal of Plankton Research_.
+
+__4__ . Sébastien Trape, __François Guilhaumon__ and Cellou Baldé. 2008. [Fish Predation by the Water Snake Afronatrix anoscopus in a Guinean Rainforest Stream.](http://doi.org/10.1080/02705060.2008.9664233). _Journal of Freshwater Ecology_.
+
+__3__ . F Ben Rais Lasram, JA Tomasini, __F Guilhaumon__, MS Romdhane, T Do Chi and D Mouillot. 2008. [Ecological correlates of dispersal success of Lessepsian fishes.](http://doi.org/10.3354/meps07474). _Mar. Ecol. Prog. Ser._.
+
+__2__ . R. Poulin, J.L. Luque, __F. Guilhaumon__ and D. Mouillot. 2008. [Species abundance distributions and numerical dominance in gastrointestinal helminth communities of fish hosts.](http://doi.org/10.1017/s0022149x08982626). _JHL_.
+
+__1__ . Maud Mouchet, __François Guilhaumon__, Sébastien Villéger, Norman W. H. Mason, Jean-Antoine Tomasini and David Mouillot. 2008. [Towards a consensus for calculating dendrogram-based functional diversity indices.](http://doi.org/10.1111/j.0030-1299.2008.16594.x). _Oikos_.
+

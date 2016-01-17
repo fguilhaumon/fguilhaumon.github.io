@@ -6,6 +6,17 @@ body {
   padding-top: 50px;
   padding-bottom: 40px;
   background-color: #FFFFFF;
+
+}
+
+a {
+  color: #337AB7;
+  text-decoration: none;
+}
+a:hover,
+a:focus {
+  color: #2B5E89;
+  text-decoration: underline;
 }
 
 .navbar-custom {

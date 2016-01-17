@@ -8,6 +8,9 @@ output:
 Overview
 ----------
 
+This is an [inline link](http://fsf.org), and here's [one with
+a title](http://fsf.org "click here for a good time!")
+
 Pandoc understands an extended and slightly revised version of
 John Gruber's original [markdown] syntax.  This document explains the syntax, noting differences from standard markdown.
 

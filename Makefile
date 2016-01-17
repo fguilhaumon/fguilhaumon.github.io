@@ -6,7 +6,7 @@ CACHE_DIRS := $(patsubst %.Rmd, %_cache ,$(wildcard *.Rmd))
 
 FIGURE_DIR := figures/
 
-all: index generateNavigationBar html generateIndexPage
+all: publications index generateNavigationBar html generateIndexPage
 
 html: $(HTML_FILES)
 
@@ -30,3 +30,5 @@ generateNavigationBar:
 generateIndexPage:
 	Rscript generateIndexPage.R
 
+publications:
+	Rscript generatePublicationsMarkdown.R
