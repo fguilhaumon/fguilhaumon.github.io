@@ -3,10 +3,22 @@ pre code, p code {
 }
 
 body {
-  padding-top: 50px;
+  padding-top: 20px;
   padding-bottom: 40px;
   background-color: #FFFFFF;
 
+}
+
+
+/* set a max-width for horizontal fluid layout and make it centered */
+@media (min-width: 1200px) {
+    .container{
+        max-width: 1500px;
+    }
+}
+
+body .main-container {
+max-width: 1200px;
 }
 
 a {
@@ -149,7 +161,7 @@ max-width: 1000px;
     /* IE8 and below */
     background: rgb(255, 255, 255);
     /* all other browsers */
-    background: rgba(255, 255, 255, 0.8);
+    background: rgba(0, 0, 0, 0.8);
 }
 
 #white {
