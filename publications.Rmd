@@ -1,12 +1,14 @@
 ---
 title: "Publications"
-output : html_document
+output :
+  html_document :
+    css : include/css/index.css
 ---
 <div>
 <h2> 2016 </h2>
 <ul class="timeline">
 <li class="timeline-inverted">
-<div class="timeline-badge ">46</div>
+<div class="timeline-badge warning">47</div>
 <div class="timeline-panel">
 <div class="timeline-heading">
 <h4 class="timeline-title">Global marine protected areas do not secure the evolutionary history of tropical corals and fishes</h4>
@@ -18,6 +20,19 @@ output : html_document
 </div>
 </div>
 </div>
+<li class="timeline-inverted">
+<div class="timeline-badge info">46</div>
+<div class="timeline-panel">
+<div class="timeline-heading">
+<h4 class="timeline-title">Island species–area relationships and species accumulation curves are not equivalent: an analysis of habitat island datasets</h4>
+<p><a class="btn btn-default btn-xs" href="http://onlinelibrary.wiley.com/doi/10.1111/geb.12439/pdf" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="http://macroecointern.dk/pdf-reprints/Matthews_GEB_2016.pdf">PDF</a></p>
+</div>
+<div class="timeline-body">
+<p>Thomas J Matthews, Kostas A Triantis, François Rigal, Michael K Borregaard, <b>François Guilhaumon</b> and Robert J Whittaker. </p>
+<h5>Global Ecology and Biogeography</5>
+</div>
+</div>
+</div>
 </ul>
 </div>
 
@@ -25,33 +40,7 @@ output : html_document
 <h2> 2015 </h2>
 <ul class="timeline">
 <li class="timeline-inverted">
-<div class="timeline-badge danger">45</div>
-<div class="timeline-panel">
-<div class="timeline-heading">
-<h4 class="timeline-title">Linking temporal changes in the demographic structure and individual growth to the decline in the population of a tropical fish</h4>
-<p><a class="btn btn-default btn-xs" href="http://www.sciencedirect.com/science/article/pii/S0272771415001614" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="http://www.researchgate.net/profile/Charlotte_Sirot/publication/276414259_Linking_temporal_changes_in_the_demographic_structure_and_individual_growth_to_the_decline_in_the_population_of_a_tropical_fish/links/5559e62e08ae6943a877c010.pdf">PDF</a></p>
-</div>
-<div class="timeline-body">
-<p>Charlotte Sirot, Audrey M Darnaude, <b>François Guilhaumon</b>, Julia Ramos-Miranda, Domingo Flores-Hernandez and Jacques Panfili. </p>
-<h5>Estuarine, Coastal and Shelf Science</5>
-</div>
-</div>
-</div>
-<li class="timeline-inverted">
-<div class="timeline-badge danger">44</div>
-<div class="timeline-panel">
-<div class="timeline-heading">
-<h4 class="timeline-title">Mammalian phylogenetic diversity-area relationships at a continental scale</h4>
-<p><a class="btn btn-default btn-xs" href="http://www.esajournals.org/doi/abs/10.1890/14-1858.1" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="http://www.researchgate.net/profile/Wilfried_Thuiller/publication/276459641_Mammalian_phylogenetic_diversity-area_relationships_at_a_continental_scale/links/555f072808ae86c06b5f7e77.pdf">PDF</a></p>
-</div>
-<div class="timeline-body">
-<p>Florent Andreas Mazel, Julien Renaud, <b>François Guilhaumon</b>, David Mouillot, Dominique Gravel and Wilfried Thuiller. </p>
-<h5>Ecology</5>
-</div>
-</div>
-</div>
-<li class="timeline-inverted">
-<div class="timeline-badge info">43</div>
+<div class="timeline-badge info">45</div>
 <div class="timeline-panel">
 <div class="timeline-heading">
 <h4 class="timeline-title">FishMed: traits, phylogeny, current and projected species distribution of Mediterranean fishes, and environmental data: Ecological Archives E096-203</h4>
@@ -64,7 +53,20 @@ output : html_document
 </div>
 </div>
 <li class="timeline-inverted">
-<div class="timeline-badge ">42</div>
+<div class="timeline-badge warning">44</div>
+<div class="timeline-panel">
+<div class="timeline-heading">
+<h4 class="timeline-title">Mammalian phylogenetic diversity-area relationships at a continental scale</h4>
+<p><a class="btn btn-default btn-xs" href="http://www.esajournals.org/doi/abs/10.1890/14-1858.1" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4678667/">PDF</a></p>
+</div>
+<div class="timeline-body">
+<p>Florent Mazel, Julien Renaud, <b>François Guilhaumon</b>, David Mouillot, Dominique Gravel and Wilfried Thuiller. </p>
+<h5>Ecology</5>
+</div>
+</div>
+</div>
+<li class="timeline-inverted">
+<div class="timeline-badge warning">43</div>
 <div class="timeline-panel">
 <div class="timeline-heading">
 <h4 class="timeline-title">Slow growth of the overexploited milk shark Rhizoprionodon acutus affects its sustainability in West Africa</h4>
@@ -77,11 +79,24 @@ output : html_document
 </div>
 </div>
 <li class="timeline-inverted">
-<div class="timeline-badge success">41</div>
+<div class="timeline-badge ">42</div>
+<div class="timeline-panel">
+<div class="timeline-heading">
+<h4 class="timeline-title">Linking temporal changes in the demographic structure and individual growth to the decline in the population of a tropical fish</h4>
+<p><a class="btn btn-default btn-xs" href="http://www.sciencedirect.com/science/article/pii/S0272771415001614" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="https://www.researchgate.net/profile/Charlotte_Sirot/publication/276414259_Linking_temporal_changes_in_the_demographic_structure_and_individual_growth_to_the_decline_in_the_population_of_a_tropical_fish/links/5559e62e08ae6943a877c010.pdf">PDF</a></p>
+</div>
+<div class="timeline-body">
+<p>Charlotte Sirot, Audrey M Darnaude, <b>François Guilhaumon</b>, Julia Ramos-Miranda, Domingo Flores-Hernandez and Jacques Panfili. </p>
+<h5>Estuarine, Coastal and Shelf Science</5>
+</div>
+</div>
+</div>
+<li class="timeline-inverted">
+<div class="timeline-badge warning">41</div>
 <div class="timeline-panel">
 <div class="timeline-heading">
 <h4 class="timeline-title">A biogeographical regionalization of coastal Mediterranean fishes</h4>
-<p><a class="btn btn-default btn-xs" href="http://onlinelibrary.wiley.com/doi/10.1111/jbi.12505/full" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="http://www.researchgate.net/profile/Fabien_Leprieur2/publication/274513084_A_biogeographical_regionalization_of_coastal_Mediterranean_fishes/links/552239770cf2f9c130529e7f.pdf">PDF</a></p>
+<p><a class="btn btn-default btn-xs" href="http://onlinelibrary.wiley.com/doi/10.1111/jbi.12505/full" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="https://www.researchgate.net/profile/Fabien_Leprieur2/publication/274513084_A_biogeographical_regionalization_of_coastal_Mediterranean_fishes/links/552239770cf2f9c130529e7f.pdf">PDF</a></p>
 </div>
 <div class="timeline-body">
 <p>Tarek Hattab, Camille Albouy, Frida Ben Rais Lasram, Le Loc'h, <b>François Guilhaumon</b> and Fabien Leprieur. </p>
@@ -90,11 +105,11 @@ output : html_document
 </div>
 </div>
 <li class="timeline-inverted">
-<div class="timeline-badge ">40</div>
+<div class="timeline-badge warning">40</div>
 <div class="timeline-panel">
 <div class="timeline-heading">
 <h4 class="timeline-title">Representing taxonomic, phylogenetic and functional diversity: new challenges for Mediterranean marine‐protected areas</h4>
-<p><a class="btn btn-default btn-xs" href="http://onlinelibrary.wiley.com/doi/10.1111/ddi.12280/full" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="http://www.researchgate.net/profile/Nicolas_Mouquet/publication/268392497_Representing_taxonomic_phylogenetic_and_functional_diversity_new_challenges_for_Mediterranean_marine-protected_areas/links/54730bd60cf216f8cfae9712.pdf">PDF</a></p>
+<p><a class="btn btn-default btn-xs" href="http://onlinelibrary.wiley.com/doi/10.1111/ddi.12280/full" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="https://www.researchgate.net/profile/Nicolas_Mouquet/publication/268392497_Representing_taxonomic_phylogenetic_and_functional_diversity_New_challenges_for_Mediterranean_marine-protected_areas/links/54730bd60cf216f8cfae9712.pdf">PDF</a></p>
 </div>
 <div class="timeline-body">
 <p><b>François Guilhaumon</b>, Camille Albouy, Joachim Claudet, Laure Velez, Frida Ben Rais Lasram, Jean‐Antoine Tomasini, Emmanuel JP Douzery, Christine N Meynard, Nicolas Mouquet, Marc Troussellier, Miguel B Araújo and David Mouillot. </p>
@@ -103,24 +118,11 @@ output : html_document
 </div>
 </div>
 <li class="timeline-inverted">
-<div class="timeline-badge info">39</div>
-<div class="timeline-panel">
-<div class="timeline-heading">
-<h4 class="timeline-title">On the form of species–area relationships in habitat islands and true islands</h4>
-<p><a class="btn btn-default btn-xs" href="http://onlinelibrary.wiley.com/doi/10.1111/geb.12269/full" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="http://www.researchgate.net/profile/Kostas_Triantis/publication/271855890_On_the_form_of_species-area_relationships_in_habitat_islands_and_true_islands_Species-area_relationships_in_islands_and_habitat_islands/links/54d76e8b0cf2464758147833.pdf">PDF</a></p>
-</div>
-<div class="timeline-body">
-<p>Thomas J Matthews, <b>François Guilhaumon</b>, Kostas A Triantis, Michael K Borregaard and Robert J Whittaker. </p>
-<h5>Global Ecology and Biogeography</5>
-</div>
-</div>
-</div>
-<li class="timeline-inverted">
-<div class="timeline-badge success">38</div>
+<div class="timeline-badge ">39</div>
 <div class="timeline-panel">
 <div class="timeline-heading">
 <h4 class="timeline-title">Diversity regulation at macro‐scales: species richness on oceanic archipelagos</h4>
-<p><a class="btn btn-default btn-xs" href="http://onlinelibrary.wiley.com/doi/10.1111/geb.12301/full" role="button">Editor website</a></p>
+<p><a class="btn btn-default btn-xs" href="http://onlinelibrary.wiley.com/doi/10.1111/geb.12301/full" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="https://www.researchgate.net/profile/Kostas_Triantis/publication/274459512_Diversity_regulation_at_macro-scales_Species_richness_on_oceanic_archipelagos/links/55abab7e08aea9946725606c.pdf">PDF</a></p>
 </div>
 <div class="timeline-body">
 <p>Kostas A Triantis, Evan P Economo, <b>François Guilhaumon</b> and Robert E Ricklefs. </p>
@@ -129,7 +131,7 @@ output : html_document
 </div>
 </div>
 <li class="timeline-inverted">
-<div class="timeline-badge info">37</div>
+<div class="timeline-badge danger">38</div>
 <div class="timeline-panel">
 <div class="timeline-heading">
 <h4 class="timeline-title">Conserving the functional and phylogenetic trees of life of European tetrapods</h4>
@@ -141,6 +143,19 @@ output : html_document
 </div>
 </div>
 </div>
+<li class="timeline-inverted">
+<div class="timeline-badge ">37</div>
+<div class="timeline-panel">
+<div class="timeline-heading">
+<h4 class="timeline-title">On the form of species–area relationships in habitat islands and true islands</h4>
+<p><a class="btn btn-default btn-xs" href="http://onlinelibrary.wiley.com/doi/10.1111/geb.12269/full" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="https://www.researchgate.net/profile/Kostas_Triantis/publication/271855890_On_the_form_of_species-area_relationships_in_habitat_islands_and_true_islands_Species-area_relationships_in_islands_and_habitat_islands/links/54d76e8b0cf2464758147833.pdf">PDF</a></p>
+</div>
+<div class="timeline-body">
+<p>Thomas J Matthews, <b>François Guilhaumon</b>, Kostas A Triantis, Michael K Borregaard and Robert J Whittaker. </p>
+<h5>Global Ecology and Biogeography</5>
+</div>
+</div>
+</div>
 </ul>
 </div>
 
@@ -148,11 +163,11 @@ output : html_document
 <h2> 2014 </h2>
 <ul class="timeline">
 <li class="timeline-inverted">
-<div class="timeline-badge info">36</div>
+<div class="timeline-badge ">36</div>
 <div class="timeline-panel">
 <div class="timeline-heading">
 <h4 class="timeline-title">Estimates of species extinctions from species–area relationships strongly depend on ecological context</h4>
-<p><a class="btn btn-default btn-xs" href="http://onlinelibrary.wiley.com/doi/10.1111/j.1600-0587.2013.00448.x/full" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="http://chaire-eec.uqar.ca/files/Matias_Ecography2014.pdf">PDF</a></p>
+<p><a class="btn btn-default btn-xs" href="http://onlinelibrary.wiley.com/doi/10.1111/j.1600-0587.2013.00448.x/full" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="http://nicolasmouquet.free.fr/publications/Matias_et_al_2014_Ecography.pdf">PDF</a></p>
 </div>
 <div class="timeline-body">
 <p>Miguel G Matias, Dominique Gravel, <b>François Guilhaumon</b>, Philippe Desjardins‐Proulx, Michel Loreau, Tamara Münkemüller and Nicolas Mouquet. </p>
@@ -165,7 +180,7 @@ output : html_document
 <div class="timeline-panel">
 <div class="timeline-heading">
 <h4 class="timeline-title">Differences in species–area relationships among the major lineages of land plants: a macroecological perspective</h4>
-<p><a class="btn btn-default btn-xs" href="http://onlinelibrary.wiley.com/doi/10.1111/geb.12230/full" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="http://www.researchgate.net/profile/Holger_Kreft/publication/263580143_Differences_in_speciesarea_relationships_among_the_major_lineages_of_land_plants_a_macroecological_perspective/links/5420801b0cf241a65a1e3b10.pdf">PDF</a></p>
+<p><a class="btn btn-default btn-xs" href="http://onlinelibrary.wiley.com/doi/10.1111/geb.12230/full" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="http://www.wirtschaftsforum-goettingen.de/de/document/download/d7099db7a9c11b114d08124bb68dba03-en.pdf/Patino_etal_2014_GEB.pdf">PDF</a></p>
 </div>
 <div class="timeline-body">
 <p>Jairo Patiño, Patrick Weigelt, <b>François Guilhaumon</b>, Holger Kreft, Kostas A Triantis, Agustín Naranjo‐Cigala, Péter Sólymos and Alain Vanderpoorten. </p>
@@ -174,24 +189,11 @@ output : html_document
 </div>
 </div>
 <li class="timeline-inverted">
-<div class="timeline-badge danger">34</div>
-<div class="timeline-panel">
-<div class="timeline-heading">
-<h4 class="timeline-title">Global mismatch between species richness and vulnerability of reef fish assemblages</h4>
-<p><a class="btn btn-default btn-xs" href="http://onlinelibrary.wiley.com/doi/10.1111/ele.12316/full" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="http://www.researchgate.net/profile/S_Floeter/publication/263759078_Parravicini_et_al_(2014)_Ecol_Lett_online/links/02e7e53bd521324692000000.pdf">PDF</a></p>
-</div>
-<div class="timeline-body">
-<p>Valeriano Parravicini, Sébastien Villéger, Tim R McClanahan, Jesus Ernesto Arias‐González, David R Bellwood, Jonathan Belmaker, Pascale Chabanet, Sergio R Floeter, Alan M Friedlander, <b>François Guilhaumon</b>, Laurent Vigliola, Michel Kulbicki and David Mouillot. </p>
-<h5>Ecology letters</5>
-</div>
-</div>
-</div>
-<li class="timeline-inverted">
-<div class="timeline-badge info">33</div>
+<div class="timeline-badge success">34</div>
 <div class="timeline-panel">
 <div class="timeline-heading">
 <h4 class="timeline-title">Functional biogeography of oceanic islands and the scaling of functional diversity in the Azores</h4>
-<p><a class="btn btn-default btn-xs" href="http://www.pnas.org/content/111/38/13709.short" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="http://www.pnas.org/content/111/38/13709.full">PDF</a></p>
+<p><a class="btn btn-default btn-xs" href="https://www.pnas.org/content/111/38/13709.full" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="https://www.pnas.org/content/111/38/13709.full">PDF</a></p>
 </div>
 <div class="timeline-body">
 <p>Robert J Whittaker, François Rigal, Paulo AV Borges, Pedro Cardoso, Sofia Terzopoulou, Fernando Casanoves, Laura Pla, <b>François Guilhaumon</b>, Richard J Ladle and Kostas A Triantis. </p>
@@ -200,11 +202,24 @@ output : html_document
 </div>
 </div>
 <li class="timeline-inverted">
-<div class="timeline-badge success">32</div>
+<div class="timeline-badge success">33</div>
+<div class="timeline-panel">
+<div class="timeline-heading">
+<h4 class="timeline-title">Global mismatch between species richness and vulnerability of reef fish assemblages</h4>
+<p><a class="btn btn-default btn-xs" href="http://onlinelibrary.wiley.com/doi/10.1111/ele.12316/full" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="https://www.researchgate.net/profile/S_Floeter/publication/263671345_Global_mismatch_between_species_richness_and_vulnerability_of_reef_fish_assemblages/links/0c96053c55920bca34000000.pdf">PDF</a></p>
+</div>
+<div class="timeline-body">
+<p>Valeriano Parravicini, Sébastien Villéger, Tim R McClanahan, Jesus Ernesto Arias‐González, David R Bellwood, Jonathan Belmaker, Pascale Chabanet, Sergio R Floeter, Alan M Friedlander, <b>François Guilhaumon</b>, Laurent Vigliola, Michel Kulbicki and David Mouillot. </p>
+<h5>Ecology letters</5>
+</div>
+</div>
+</div>
+<li class="timeline-inverted">
+<div class="timeline-badge danger">32</div>
 <div class="timeline-panel">
 <div class="timeline-heading">
 <h4 class="timeline-title">Multifaceted diversity–area relationships reveal global hotspots of mammalian species, trait and lineage diversity</h4>
-<p><a class="btn btn-default btn-xs" href="http://onlinelibrary.wiley.com/doi/10.1111/geb.12158/full" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="http://europepmc.org/articles/pmc4110700">PDF</a></p>
+<p><a class="btn btn-default btn-xs" href="http://onlinelibrary.wiley.com/doi/10.1111/geb.12158/full" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4110700/">PDF</a></p>
 </div>
 <div class="timeline-body">
 <p>Florent Mazel, <b>François Guilhaumon</b>, Nicolas Mouquet, Vincent Devictor, Dominique Gravel, Julien Renaud, Marcus Vinicius Cianciaruso, Rafael Loyola, José Alexandre Felizola Diniz‐Filho, David Mouillot and Wilfried Thuiller. </p>
@@ -213,7 +228,7 @@ output : html_document
 </div>
 </div>
 <li class="timeline-inverted">
-<div class="timeline-badge warning">31</div>
+<div class="timeline-badge ">31</div>
 <div class="timeline-panel">
 <div class="timeline-heading">
 <h4 class="timeline-title">The effects of phenotypic plasticity and local adaptation on forecasts of species range shifts under climate change</h4>
@@ -232,11 +247,11 @@ output : html_document
 <h2> 2013 </h2>
 <ul class="timeline">
 <li class="timeline-inverted">
-<div class="timeline-badge info">30</div>
+<div class="timeline-badge ">30</div>
 <div class="timeline-panel">
 <div class="timeline-heading">
 <h4 class="timeline-title">How can quantitative ecology be attractive to young scientists? Balancing computer/desk work with fieldwork</h4>
-<p><a class="btn btn-default btn-xs" href="http://onlinelibrary.wiley.com/doi/10.1111/j.1469-1795.2012.00597.x/full" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="http://www.researchgate.net/profile/Sabrina_Servanty/publication/235353708_How_can_quantitative_ecology_be_attractive_to_young_scientists_Balancing_computerdesk_work_with_fieldwork/links/02e7e529609847da2d000000.pdf">PDF</a></p>
+<p><a class="btn btn-default btn-xs" href="http://onlinelibrary.wiley.com/doi/10.1111/j.1469-1795.2012.00597.x/full" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="http://www.catedra.uevora.pt/rui-nabeiro/index.php/rui_nabeiro/content/download/734/4627/file/acv597.pdf">PDF</a></p>
 </div>
 <div class="timeline-body">
 <p>O Gimenez, F Abadi, J‐Y Barnagaud, L Blanc, M Buoro, S Cubaynes, M Desprez, M Gamelon, <b>F Guilhaumon</b>, P Lagrange, B Madon, L Marescot, E Papadatou, J Papaïx, G Péron and S Servanty. </p>
@@ -245,11 +260,11 @@ output : html_document
 </div>
 </div>
 <li class="timeline-inverted">
-<div class="timeline-badge info">29</div>
+<div class="timeline-badge ">29</div>
 <div class="timeline-panel">
 <div class="timeline-heading">
 <h4 class="timeline-title">Global agricultural expansion and carnivore conservation biogeography</h4>
-<p><a class="btn btn-default btn-xs" href="http://www.sciencedirect.com/science/article/pii/S0006320713001857" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="http://www.researchgate.net/profile/Sidney_Gouveia/publication/243464185_Global_agricultural_expansion_and_carnivore_conservation_biogeography/links/0deec51d16c2bae3d0000000.pdf">PDF</a></p>
+<p><a class="btn btn-default btn-xs" href="http://www.sciencedirect.com/science/article/pii/S0006320713001857" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="https://www.researchgate.net/profile/Sidney_Gouveia/publication/243464185_Global_agricultural_expansion_and_carnivore_conservation_biogeography/links/0deec51d16c2bae3d0000000.pdf">PDF</a></p>
 </div>
 <div class="timeline-body">
 <p>Ricardo Dobrovolski, Rafael D Loyola, <b>François Guilhaumon</b>, Sidney F Gouveia and José Alexandre F Diniz-Filho. </p>
@@ -258,11 +273,11 @@ output : html_document
 </div>
 </div>
 <li class="timeline-inverted">
-<div class="timeline-badge ">28</div>
+<div class="timeline-badge info">28</div>
 <div class="timeline-panel">
 <div class="timeline-heading">
 <h4 class="timeline-title">Accounting for data heterogeneity in patterns of biodiversity: an application of linear mixed effect models to the oceanic island biogeography of spore‐producing plants</h4>
-<p><a class="btn btn-default btn-xs" href="http://onlinelibrary.wiley.com/doi/10.1111/j.1600-0587.2012.00020.x/full" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="http://www.researchgate.net/profile/Jairo_Patino/publication/248389121_Accounting_for_data_heterogeneity_in_patterns_of_biodiversity_an_application_of_linear_mixed_effect_models_to_the_oceanic_island_biogeography_of_spore-producing_plants/links/0c960520531e7f3414000000.pdf">PDF</a></p>
+<p><a class="btn btn-default btn-xs" href="http://onlinelibrary.wiley.com/doi/10.1111/j.1600-0587.2012.00020.x/full" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="https://www.researchgate.net/profile/Jairo_Patino/publication/248389121_Accounting_for_data_heterogeneity_in_patterns_of_biodiversity_an_application_of_linear_mixed_effect_models_to_the_oceanic_island_biogeography_of_spore-producing_plants/links/0c960520531e7f3414000000.pdf">PDF</a></p>
 </div>
 <div class="timeline-body">
 <p>Jairo Patiño, <b>François Guilhaumon</b>, Robert J Whittaker, Kostas A Triantis, S Robbert Gradstein, Lars Hedenäs, Juana M González‐Mancebo and Alain Vanderpoorten. </p>
@@ -274,24 +289,24 @@ output : html_document
 <div class="timeline-badge success">27</div>
 <div class="timeline-panel">
 <div class="timeline-heading">
-<h4 class="timeline-title">Snails on oceanic islands: testing the general dynamic model of oceanic island biogeography using linear mixed effect models</h4>
-<p><a class="btn btn-default btn-xs" href="http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2699.2012.02781.x/full" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="http://webpages.uidaho.edu/parentlab/Parent_lab/Parent_lab___Research_files/Cameron_etal_2012.pdf">PDF</a></p>
-</div>
-<div class="timeline-body">
-<p>Robert AD Cameron, Kostas A Triantis, Christine E Parent, <b>François Guilhaumon</b>, María R Alonso, Miguel Ibáñez, António M Frias Martins, Richard J Ladle and Robert J Whittaker. </p>
-<h5>Journal of Biogeography</5>
-</div>
-</div>
-</div>
-<li class="timeline-inverted">
-<div class="timeline-badge danger">26</div>
-<div class="timeline-panel">
-<div class="timeline-heading">
 <h4 class="timeline-title">Projected climate change and the changing biogeography of coastal Mediterranean fishes</h4>
 <p><a class="btn btn-default btn-xs" href="http://onlinelibrary.wiley.com/doi/10.1111/jbi.12013/full" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="http://francoisguilhaumon.free.fr/pdf/Albouy_JBI_2012.pdf">PDF</a></p>
 </div>
 <div class="timeline-body">
 <p>Camille Albouy, <b>François Guilhaumon</b>, Fabien Leprieur, Frida Ben Rais Lasram, Samuel Somot, Roland Aznar, Laure Velez, François Loc'h and David Mouillot. </p>
+<h5>Journal of Biogeography</5>
+</div>
+</div>
+</div>
+<li class="timeline-inverted">
+<div class="timeline-badge warning">26</div>
+<div class="timeline-panel">
+<div class="timeline-heading">
+<h4 class="timeline-title">Snails on oceanic islands: testing the general dynamic model of oceanic island biogeography using linear mixed effect models</h4>
+<p><a class="btn btn-default btn-xs" href="http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2699.2012.02781.x/full" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="http://webpages.uidaho.edu/parentlab/Parent_lab/Parent_lab___Research_files/Cameron_etal_2012.pdf">PDF</a></p>
+</div>
+<div class="timeline-body">
+<p>Robert AD Cameron, Kostas A Triantis, Christine E Parent, <b>François Guilhaumon</b>, María R Alonso, Miguel Ibáñez, António M Frias Martins, Richard J Ladle and Robert J Whittaker. </p>
 <h5>Journal of Biogeography</5>
 </div>
 </div>
@@ -303,7 +318,7 @@ output : html_document
 <h2> 2012 </h2>
 <ul class="timeline">
 <li class="timeline-inverted">
-<div class="timeline-badge ">25</div>
+<div class="timeline-badge warning">25</div>
 <div class="timeline-panel">
 <div class="timeline-heading">
 <h4 class="timeline-title">Latitudinal mismatches between the components of mammal–flea interaction networks</h4>
@@ -316,11 +331,11 @@ output : html_document
 </div>
 </div>
 <li class="timeline-inverted">
-<div class="timeline-badge info">24</div>
+<div class="timeline-badge ">24</div>
 <div class="timeline-panel">
 <div class="timeline-heading">
 <h4 class="timeline-title">Conference program and abstracts. International Biogeography Society 6th Biennial Meeting–9-13 January 2013, Miami, Florida, USA</h4>
-<p><a class="btn btn-default btn-xs" href="http://escholarship.org/uc/item/3kb4c5jr" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="http://escholarship.org/uc/item/3kb4c5jr.pdf">PDF</a></p>
+<p><a class="btn btn-default btn-xs" href="http://eprints.cdlib.org/uc/item/3kb4c5jr" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="http://eprints.cdlib.org/uc/item/3kb4c5jr.pdf">PDF</a></p>
 </div>
 <div class="timeline-body">
 <p>Joaquín Hortal, Karen Faller, Kenneth Feeley, Richard Field, Catherine Graham, <b>François Guilhaumon</b> and Daniel Gavin. </p>
@@ -329,7 +344,7 @@ output : html_document
 </div>
 </div>
 <li class="timeline-inverted">
-<div class="timeline-badge danger">23</div>
+<div class="timeline-badge warning">23</div>
 <div class="timeline-panel">
 <div class="timeline-heading">
 <h4 class="timeline-title">Species–area relationships as a tool for the conservation of benthic invertebrates in Italian coastal lagoons</h4>
@@ -346,16 +361,16 @@ output : html_document
 <div class="timeline-panel">
 <div class="timeline-heading">
 <h4 class="timeline-title">Areas of climate stability of species ranges in the Brazilian Cerrado: disentangling uncertainties through time</h4>
-<p><a class="btn btn-default btn-xs" href="http://scholar.google.com/scholar?cluster=5221306183319710625&hl=en&oi=scholarr" role="button">Editor website</a></p>
+<p><a class="btn btn-default btn-xs" href="http://repositorio.bc.ufg.br/handle/ri/11014" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="http://repositorio.bc.ufg.br/bitstream/ri/11014/1/Areas%20of%20climate%20stability%20of%20species%20ranges%20in%20the%20brazilian%20cerrado%20-%202012.pdf">PDF</a></p>
 </div>
 <div class="timeline-body">
-<p>Levi Carina Terribile, Matheus Souza Lima-Ribeiro, Miguel Bastos Araujo, Nair Bizao, Rosane Garcia Collevatti, Ricardo Dobrovolski, Amanda Assis Franco, <b>Francois Guilhaumon</b>, Jacqueline de Souza Lima, Devanir Mitsuyuki Murakami, Joao Carlos Nabout, Guilherme de Oliveira, Leciane Karita de Oliveira, Suelen Goncalves Rabelo, Thiago Fernando Rangel, Lorena Mendes Simon, Thannya Nascimento Soares, Mariana Pires de Campos Telles and Jose Alexandre Felizola Diniz-Filho. </p>
-<h5>Natureza & Conservação</5>
+<p>Levi Carina Terribile, Matheus Souza Lima-Ribeiro, Miguel Bastos Araújo, Nair Bizao, Rosane Garcia Collevatt, Ricardo Dobrovolski, Amanda Assis Franco, <b>Francois Guilhaumon</b>, Jacqueline de Souza Lima, Devanir Mitsuyuki Murakami, João Carlos Nabout, Guilherme de Oliveira, Leciane Karita de Oliveira, Suelen Gonçalves Rabelo, Thiago Fernando Rangel, Lorena Mendes Simon, Thannya Nascimento Soares, Mariana Pires de Campos Telles and José Alexandre Felizola Diniz-Filho. </p>
+<h5>brasil</5>
 </div>
 </div>
 </div>
 <li class="timeline-inverted">
-<div class="timeline-badge info">21</div>
+<div class="timeline-badge warning">21</div>
 <div class="timeline-panel">
 <div class="timeline-heading">
 <h4 class="timeline-title">Combining projected changes in species richness and composition reveals climate change impacts on coastal Mediterranean fish assemblages</h4>
@@ -368,11 +383,11 @@ output : html_document
 </div>
 </div>
 <li class="timeline-inverted">
-<div class="timeline-badge ">20</div>
+<div class="timeline-badge danger">20</div>
 <div class="timeline-panel">
 <div class="timeline-heading">
 <h4 class="timeline-title">The island species–area relationship: biology and statistics</h4>
-<p><a class="btn btn-default btn-xs" href="http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2699.2011.02652.x/pdf" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="http://www.researchgate.net/profile/Kostas_Triantis/publication/227739264_The_island_speciesarea_relationship_biology_and_statistics/links/0912f510be943777c2000000.pdf">PDF</a></p>
+<p><a class="btn btn-default btn-xs" href="http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2699.2011.02652.x/full" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="https://www.researchgate.net/profile/Kostas_Triantis/publication/227739264_The_island_speciesarea_relationship_biology_and_statistics/links/0912f510be943777c2000000.pdf">PDF</a></p>
 </div>
 <div class="timeline-body">
 <p>Kostas A Triantis, <b>François Guilhaumon</b> and Robert J Whittaker*. </p>
@@ -381,11 +396,11 @@ output : html_document
 </div>
 </div>
 <li class="timeline-inverted">
-<div class="timeline-badge info">19</div>
+<div class="timeline-badge success">19</div>
 <div class="timeline-panel">
 <div class="timeline-heading">
 <h4 class="timeline-title">Arthropod Diversity in a Tropical Forest</h4>
-<p><a class="btn btn-default btn-xs" href="http://www.sciencemag.org/content/338/6113/1481.short" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="http://www.sciencemag.org/content/338/6113/1481.short">PDF</a></p>
+<p><a class="btn btn-default btn-xs" href="http://science.sciencemag.org/content/338/6113/1481.short" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="https://hal-clermont-univ.archives-ouvertes.fr/docs/00/81/72/85/PDF/1226727Revisedtext.pdf">PDF</a></p>
 </div>
 <div class="timeline-body">
 <p>Yves Basset, Lukas Cizek, Philippe Cuénoud, Raphael K Didham, <b>François Guilhaumon</b>, Olivier Missa, Vojtech Novotny, Frode Ødegaard, Tomas Roslin, Jürgen Schmidl, Alexey K Tishechkin, Neville N Winchester, David W Roubik, Henri-Pierre Aberlenc, Johannes Bail, Héctor Barrios, Jon R Bridle, Gabriela Castaño-Meneses, Bruno Corbara, Gianfranco Curletti, Wesley Duarte da Rocha, Domir De Bakker, Jacques HC Delabie, Alain Dejean, Laura L Fagan, Andreas Floren, Roger L Kitching, Enrique Medianero, Scott E Miller, Evandro Gama de Oliveira, Jérôme Orivel, Marc Pollet, Mathieu Rapp, Sérvio P Ribeiro, Yves Roisin, Jesper B Schmidt, Line Sørensen and Maurice Leponce. </p>
@@ -394,7 +409,7 @@ output : html_document
 </div>
 </div>
 <li class="timeline-inverted">
-<div class="timeline-badge success">18</div>
+<div class="timeline-badge info">18</div>
 <div class="timeline-panel">
 <div class="timeline-heading">
 <h4 class="timeline-title">The Mediterranean Sea under siege: spatial overlap between marine biodiversity, cumulative threats and marine reserves</h4>
@@ -413,11 +428,11 @@ output : html_document
 <h2> 2011 </h2>
 <ul class="timeline">
 <li class="timeline-inverted">
-<div class="timeline-badge warning">17</div>
+<div class="timeline-badge info">17</div>
 <div class="timeline-panel">
 <div class="timeline-heading">
 <h4 class="timeline-title">Predicting trophic guild and diet overlap from functional traits: statistics, opportunities and limitations for marine ecology</h4>
-<p><a class="btn btn-default btn-xs" href="http://albouycamille.free.fr/Papier/Albouy_et_al_2011.pdf" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="http://albouycamille.free.fr/Papier/Albouy_et_al_2011.pdf">PDF</a></p>
+<p><a class="btn btn-default btn-xs" href="http://www.int-res.com/articles/meps2011/436/m436p017.pdf" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="http://www.int-res.com/articles/meps2011/436/m436p017.pdf">PDF</a></p>
 </div>
 <div class="timeline-body">
 <p>Camille Albouy, <b>F Guilhaumon</b>, S Villéger, M Mouchet, L Mercier, JM Culioli, JA Tomasini, FLe Loc'h and David Mouillot. </p>
@@ -439,7 +454,7 @@ output : html_document
 </div>
 </div>
 <li class="timeline-inverted">
-<div class="timeline-badge ">15</div>
+<div class="timeline-badge danger">15</div>
 <div class="timeline-panel">
 <div class="timeline-heading">
 <h4 class="timeline-title">Impactos, Vulnerabilidad y Adaptación al Cambio Climático de la Biodiversidad Española. 2 Fauna de Vertebrados</h4>
@@ -452,7 +467,7 @@ output : html_document
 </div>
 </div>
 <li class="timeline-inverted">
-<div class="timeline-badge success">14</div>
+<div class="timeline-badge ">14</div>
 <div class="timeline-panel">
 <div class="timeline-heading">
 <h4 class="timeline-title">Protected and threatened components of fish biodiversity in the Mediterranean Sea</h4>
@@ -471,11 +486,11 @@ output : html_document
 <h2> 2010 </h2>
 <ul class="timeline">
 <li class="timeline-inverted">
-<div class="timeline-badge success">13</div>
+<div class="timeline-badge danger">13</div>
 <div class="timeline-panel">
 <div class="timeline-heading">
 <h4 class="timeline-title">mmSAR: an R‐package for multimodel species–area relationship inference</h4>
-<p><a class="btn btn-default btn-xs" href="http://onlinelibrary.wiley.com/doi/10.1111/j.1600-0587.2010.06304.x/full" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="http://www.researchgate.net/profile/Olivier_Gimenez/publication/227696395_mmSAR_an_Rpackage_for_multimodel_speciesarea_relationship_inference/links/0912f510f752d5fa1b000000.pdf">PDF</a></p>
+<p><a class="btn btn-default btn-xs" href="http://onlinelibrary.wiley.com/doi/10.1111/j.1600-0587.2010.06304.x/full" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="https://www.researchgate.net/profile/Olivier_Gimenez/publication/227696395_mmSAR_An_R-package_for_multimodel_species-area_relationship_inference/links/0912f510f752d5fa1b000000.pdf">PDF</a></p>
 </div>
 <div class="timeline-body">
 <p><b>François Guilhaumon</b>, David Mouillot and Olivier Gimenez. </p>
@@ -484,7 +499,7 @@ output : html_document
 </div>
 </div>
 <li class="timeline-inverted">
-<div class="timeline-badge danger">12</div>
+<div class="timeline-badge ">12</div>
 <div class="timeline-panel">
 <div class="timeline-heading">
 <h4 class="timeline-title">The Mediterranean Sea as a ‘cul‐de‐sac’for endemic fishes facing climate change</h4>
@@ -497,14 +512,14 @@ output : html_document
 </div>
 </div>
 <li class="timeline-inverted">
-<div class="timeline-badge info">11</div>
+<div class="timeline-badge success">11</div>
 <div class="timeline-panel">
 <div class="timeline-heading">
 <h4 class="timeline-title">The biodiversity of the Mediterranean Sea: estimates, patterns, and threats</h4>
-<p><a class="btn btn-default btn-xs" href="http://dx.plos.org/10.1371/journal.pone.0011842" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="http://dx.plos.org/10.1371/journal.pone.0011842">PDF</a></p>
+<p><a class="btn btn-default btn-xs" href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0011842" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0011842">PDF</a></p>
 </div>
 <div class="timeline-body">
-<p>Marta Coll, Chiara Piroddi, Jeroen Steenbeek, Kristin Kaschner, Frida Ben Rais Lasram, Jacopo Aguzzi, Enric Ballesteros, Carlo Nike Bianchi, Jordi Corbera, Thanos Dailianis, Roberto Danovaro, Marta Estrada, Carlo Froglia, Bella S Galil, Josep M Gasol, Ruthy Gertwagen, João Gil, <b>François Guilhaumon</b>, Kathleen Kesner-Reyes, Miltiadis-Spyridon Kitsos, Athanasios Koukouras, Nikolaos Lampadariou, Elijah Laxamana, Carlos M Lopez-Fe de la Cuadra, Heike K Lotze, Daniel Martin, David Mouillot, Daniel Oro, Sasa Raicevich, Josephine Rius-Barile, Jose Ignacio Saiz-Salinas, Carles San Vicente, Samuel Somot, José Templado, Xavier Turon, Dimitris Vafidis, Roger Villanueva and Eleni Voultsiadou. </p>
+<p>Marta Coll, Chiara Piroddi, Jeroen Steenbeek, Kristin Kaschner, Frida Ben Rais Lasram, Jacopo Aguzzi, Enric Ballesteros, Carlo Nike Bianchi, Jordi Corbera, Thanos Dailianis, Roberto Danovaro, Marta Estrada, Carlo Froglia, Bella S Galil, Josep M Gasol, Ruthy Gertwagen, João Gil, <b>François Guilhaumon</b>, Kathleen Kesner-Reyes, Miltiadis-Spyridon Kitsos, Athanasios Koukouras, Nikolaos Lampadariou, Elijah Laxamana, Heike K Lotze, Daniel Martin, David Mouillot, Daniel Oro, Saša Raicevich, Josephine Rius-Barile, Jose Ignacio Saiz-Salinas, Carles San Vicente, Samuel Somot, José Templado, Xavier Turon, Dimitris Vafidis, Roger Villanueva and Eleni Voultsiadou. </p>
 <h5>PloS one</5>
 </div>
 </div>
@@ -516,11 +531,11 @@ output : html_document
 <h2> 2009 </h2>
 <ul class="timeline">
 <li class="timeline-inverted">
-<div class="timeline-badge success">10</div>
+<div class="timeline-badge ">10</div>
 <div class="timeline-panel">
 <div class="timeline-heading">
 <h4 class="timeline-title">Reply to Bode and Murdoch: A proper integration of species–area relationship uncertainties into return on investment analyses is needed</h4>
-<p><a class="btn btn-default btn-xs" href="http://www.pnas.org/content/early/2009/02/06/0812917106.short" role="button">Editor website</a></p>
+<p><a class="btn btn-default btn-xs" href="https://www.pnas.org/content/106/7/E13.full" role="button">Editor website</a></p>
 </div>
 <div class="timeline-body">
 <p><b>François Guilhaumon</b>, Olivier Gimenez, Kevin J Gaston and David Mouillot. </p>
@@ -529,11 +544,11 @@ output : html_document
 </div>
 </div>
 <li class="timeline-inverted">
-<div class="timeline-badge ">9</div>
+<div class="timeline-badge warning">9</div>
 <div class="timeline-panel">
 <div class="timeline-heading">
 <h4 class="timeline-title">Fish diversity patterns in the Mediterranean Sea: deviations from a mid-domain model</h4>
-<p><a class="btn btn-default btn-xs" href="http://www.researchgate.net/profile/Frida_Lasram/publication/228333096_Fish_diversity_patterns_in_the_Mediterranean_Sea_deviations_from_a_mid-domain_model/links/0fcfd50cae8a0ca5be000000.pdf" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="http://www.researchgate.net/profile/Frida_Lasram/publication/228333096_Fish_diversity_patterns_in_the_Mediterranean_Sea_deviations_from_a_mid-domain_model/links/0fcfd50cae8a0ca5be000000.pdf">PDF</a></p>
+<p><a class="btn btn-default btn-xs" href="https://www.researchgate.net/profile/Frida_Lasram/publication/228333096_Fish_diversity_patterns_in_the_Mediterranean_Sea_deviations_from_a_mid-domain_model/links/0fcfd50cae8a0ca5be000000.pdf" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="https://www.researchgate.net/profile/Frida_Lasram/publication/228333096_Fish_diversity_patterns_in_the_Mediterranean_Sea_deviations_from_a_mid-domain_model/links/0fcfd50cae8a0ca5be000000.pdf">PDF</a></p>
 </div>
 <div class="timeline-body">
 <p>Frida Ben Rais Lasram, <b>François Guilhaumon</b> and David Mouillot. </p>
@@ -542,11 +557,11 @@ output : html_document
 </div>
 </div>
 <li class="timeline-inverted">
-<div class="timeline-badge danger">8</div>
+<div class="timeline-badge warning">8</div>
 <div class="timeline-panel">
 <div class="timeline-heading">
 <h4 class="timeline-title">Effects of the environment on fish juvenile growth in West African stressful estuaries</h4>
-<p><a class="btn btn-default btn-xs" href="http://www.sciencedirect.com/science/article/pii/S0272771409001036" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="http://www.researchgate.net/profile/Jacques_Panfili/publication/229308847_Effects_of_the_environment_on_fish_juvenile_growth_in_West_African_stressful_estuaries/links/0046353bbae271615b000000.pdf">PDF</a></p>
+<p><a class="btn btn-default btn-xs" href="http://www.sciencedirect.com/science/article/pii/S0272771409001036" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="https://www.researchgate.net/profile/Jacques_Panfili/publication/229308847_Effects_of_the_environment_on_fish_juvenile_growth_in_West_African_stressful_estuaries/links/0046353bbae271615b000000.pdf">PDF</a></p>
 </div>
 <div class="timeline-body">
 <p>K Diouf, <b>F Guilhaumon</b>, C Aliaume, P Ndiaye, T Do Chi and Jacques Panfili. </p>
@@ -555,11 +570,11 @@ output : html_document
 </div>
 </div>
 <li class="timeline-inverted">
-<div class="timeline-badge info">7</div>
+<div class="timeline-badge ">7</div>
 <div class="timeline-panel">
 <div class="timeline-heading">
 <h4 class="timeline-title">Recruitment patterns of young-of-the-year mugilid fishes in a West African estuary impacted by climate change</h4>
-<p><a class="btn btn-default btn-xs" href="http://www.sciencedirect.com/science/article/pii/S027277140900420X" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="http://www.researchgate.net/profile/Jean-Dominique_Durand/publication/228498534_Recruitment_patterns_of_young-of-the-year_mugilid_fishes_in_a_West_African_estuary_impacted_by_climate_change/links/0fcfd5091782f8cd4e000000.pdf">PDF</a></p>
+<p><a class="btn btn-default btn-xs" href="http://www.sciencedirect.com/science/article/pii/S027277140900420X" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="https://www.researchgate.net/profile/Jean-Dominique_Durand/publication/228498534_Recruitment_patterns_of_young-of-the-year_mugilid_fishes_in_a_West_African_estuary_impacted_by_climate_change/links/0fcfd5091782f8cd4e000000.pdf">PDF</a></p>
 </div>
 <div class="timeline-body">
 <p>Sébastien Trape, Jean-Dominique Durand, <b>François Guilhaumon</b>, Laurent Vigliola and Jacques Panfili. </p>
@@ -572,7 +587,7 @@ output : html_document
 <div class="timeline-panel">
 <div class="timeline-heading">
 <h4 class="timeline-title">Temperature effects on Calanus helgolandicus (Copepoda: Calanoida) development time and egg production</h4>
-<p><a class="btn btn-default btn-xs" href="http://plankt.oxfordjournals.org/content/31/1/31.short" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="http://plankt.oxfordjournals.org/content/31/1/31.full">PDF</a></p>
+<p><a class="btn btn-default btn-xs" href="" role="button">Editor website</a></p>
 </div>
 <div class="timeline-body">
 <p>D Bonnet, RP Harris, Lidia Yebra, <b>François Guilhaumon</b>, DVP Conway and AG Hirst. </p>
@@ -600,7 +615,7 @@ output : html_document
 </div>
 </div>
 <li class="timeline-inverted">
-<div class="timeline-badge info">4</div>
+<div class="timeline-badge success">4</div>
 <div class="timeline-panel">
 <div class="timeline-heading">
 <h4 class="timeline-title">Species abundance distributions and numerical dominance in gastrointestinal helminth communities of fish hosts</h4>
@@ -613,11 +628,11 @@ output : html_document
 </div>
 </div>
 <li class="timeline-inverted">
-<div class="timeline-badge success">3</div>
+<div class="timeline-badge danger">3</div>
 <div class="timeline-panel">
 <div class="timeline-heading">
 <h4 class="timeline-title">Ecological correlates of dispersal success of Lessepsian fishes</h4>
-<p><a class="btn btn-default btn-xs" href="http://francoisguilhaumon.free.fr/pdf/Lasram_MEPS_2008.pdf" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="http://francoisguilhaumon.free.fr/pdf/Lasram_MEPS_2008.pdf">PDF</a></p>
+<p><a class="btn btn-default btn-xs" href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.659.4388&rep=rep1&type=pdf" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.659.4388&amp;rep=rep1&amp;type=pdf">PDF</a></p>
 </div>
 <div class="timeline-body">
 <p>F Ben Rais Lasram, Jean Antoine Tomasini, <b>F Guilhaumon</b>, Mohamed Salah Romdhane, Thang Do Chi and David Mouillot. </p>
@@ -626,7 +641,7 @@ output : html_document
 </div>
 </div>
 <li class="timeline-inverted">
-<div class="timeline-badge success">2</div>
+<div class="timeline-badge danger">2</div>
 <div class="timeline-panel">
 <div class="timeline-heading">
 <h4 class="timeline-title">Towards a consensus for calculating dendrogram‐based functional diversity indices</h4>
@@ -639,11 +654,11 @@ output : html_document
 </div>
 </div>
 <li class="timeline-inverted">
-<div class="timeline-badge success">1</div>
+<div class="timeline-badge info">1</div>
 <div class="timeline-panel">
 <div class="timeline-heading">
 <h4 class="timeline-title">Taxonomic and regional uncertainty in species-area relationships and the identification of richness hotspots</h4>
-<p><a class="btn btn-default btn-xs" href="http://www.pnas.org/content/105/40/15458.short" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="http://www.pnas.org/content/105/40/15458.full">PDF</a></p>
+<p><a class="btn btn-default btn-xs" href="https://www.pnas.org/content/105/40/15458.full" role="button">Editor website</a> <a class="btn btn-danger btn-xs" href="https://www.pnas.org/content/105/40/15458.full">PDF</a></p>
 </div>
 <div class="timeline-body">
 <p><b>François Guilhaumon</b>, Olivier Gimenez, Kevin J Gaston and David Mouillot. </p>
