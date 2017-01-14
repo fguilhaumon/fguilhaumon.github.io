@@ -1,8 +1,6 @@
 ---
 title: "Publications"
-output :
-  html_document :
-    css : include/css/index.css
+output :  html_document
 ---
 
 
