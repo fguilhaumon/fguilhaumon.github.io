@@ -65,7 +65,7 @@ if(params$pubIDType=="orcid"){
   })#eo lapply
 }#eo if orcid
 
-if(params$pubIDType=="scholar" & FALSE){
+if(params$pubIDType=="scholar" & TRUE){
 
   papers <- get_publications(params$pubIDValu,flush=TRUE)
   tri <- rev(order(papers$year))
@@ -77,7 +77,7 @@ if(params$pubIDType=="scholar" & FALSE){
 
     cat("processing paper :",as.character(papers[p,"title"]),"\n")
 
-    paper.Details.html <- read_html(paste0("https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jJwtZT0AAAAJ&sortby=pubdate&citation_for_view=jJwtZT0AAAAJ:",papers[p,"pubid"]))
+    paper.Details.html <- read_html(GET(paste0("https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jJwtZT0AAAAJ&sortby=pubdate&citation_for_view=jJwtZT0AAAAJ:",papers[p,"pubid"]),handle=getOption("scholar_handle")))
     #cat("OK\n")
     link <- html_attr(html_nodes(paper.Details.html,css=".gsc_title_link"),"href")
     #cat("OK link1\n")
@@ -109,9 +109,12 @@ if(params$pubIDType=="scholar" & FALSE){
     return(string)
 
   })#eo lapply
+
+  sapply(papers.rmarkdown,function(x)cat(x,file = "publications.Rmd", append = TRUE))
+
 }#eo if scholar
 
-if(params$pubIDType=="scholar" & TRUE){
+if(params$pubIDType=="scholar" & FALSE){
 
 	papers <- get_publications(params$pubIDValu,flush=TRUE)
 	tri <- rev(order(papers$year))

@@ -6,7 +6,7 @@ CACHE_DIRS := $(patsubst %.Rmd, %_cache ,$(wildcard *.Rmd))
 
 FIGURE_DIR := figures/
 
-all: index generateNavigationBar html generateIndexPage
+all: index generateNavigationBar html generateIndexPage generate 
 
 html: $(HTML_FILES)
 

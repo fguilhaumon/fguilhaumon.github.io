@@ -1,39 +1,12 @@
 [
   {
-    "output": "html_document",
-    "url": "index.html",
-    "title": "index",
-    "date": "2016-01-19 01:50:39"
-  },
-  {
+    "title": "Publications",
     "output": {
       "html_document": {
-        "toc": true,
-        "toc_depth": 2
+        "css": "include/css/index.css"
       }
     },
-    "url": "pandoc.html",
-    "title": "pandoc",
-    "date": "2016-01-17 02:12:09"
-  },
-  {
-    "title": "Publications",
-    "output": "html_document",
     "url": "publications.html",
-    "date": "2016-01-19 01:40:31"
-  },
-  {
-    "title": "test2",
-    "author": "Hiroaki Yutani",
-    "date": "2015年9月19日",
-    "output": "html_document",
-    "url": "test2.html"
-  },
-  {
-    "title": "test",
-    "author": "Hiroaki Yutani",
-    "date": "2015年7月4日",
-    "output": "html_document",
-    "url": "test.html"
+    "date": "2017-01-13 11:15:35"
   }
 ]
